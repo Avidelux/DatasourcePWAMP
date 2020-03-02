@@ -2,47 +2,86 @@
     "items": [
         {
             "id": 1,
+            "name": "Test-product-1"
             "items":[{
-                "name": "Alice",
-                "age": 42
-            }],
-            "name": "Alice",
-            "age": 42
+                "name": "Test-product-1",
+                "price": 42.1,
+                "currency": "€",
+                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                "images": ["https://img.icons8.com/pastel-glyph/2x/product.png", 
+                           "https://cdn.iconscout.com/icon/premium/png-256-thumb/new-product-14-993762.png"]
+            }]
         },
         {
             "id": 2,
+            "name": "Test-product-2"
             "items":[{
-                "name": "Bob",
-                "age": 55
-            }],
-            "name": "Bob",
-            "Age": 55
+                "name": "Test-product-2",
+                "price": 35.5,
+                "currency": "€",
+                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                "images": ["https://blobs.gitbook.com/spaces%2F-LMXntoNWswC_Vuc_6nO%2Favatar.png?generation=1537108583243780&alt=media", 
+                           "https://ps.w.org/woo-product-gallery-slider/assets/icon-256x256.jpg?rev=2087766"]
+            }]
         },
         {
             "id": 3,
+            "name": "Test-product-3"
             "items":[{
-                "name": "Carol",
-                "age": 28
-            }],
-            "name": "Carol",
-            "Age": 28
+                "name": "Test-product-3",
+                "price": 0.9,
+                "currency": "€",
+                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                "images": ["https://image.flaticon.com/icons/png/128/1474/1474713.png", 
+                           "https://help.akeneo.com/pim/v3/img/Products_Product%20variant.svg"]
+            }]
         },
         {
             "id": 4,
-            "name": "Dan",
-            "age": 22
+            "name": "Test-product-4"
+            "items":[{
+                "name": "Test-product-4",
+                "price": 22.0,
+                "currency": "€",
+                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                "images": ["https://www.remember.de/out/pictures/generated/product/thumb/270_270_90/lx04_256x256px(1).jpg", 
+                           "https://ps.w.org/woo-extra-product-options/assets/icon-256x256.png?rev=1821942"]
+            }]
         },
         {
-            "name": "Hi Mirko",
-            "age": 22
+            "id": 5,
+            "name": "Test-product-5"
+            "items":[{
+                "name": "Test-product-5",
+                "price": 35.2,
+                "currency": "€",
+                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                "images": ["https://lh3.googleusercontent.com/proxy/NJswXizQ9flbfmzmtQ0mTjIApXFKPuz1H-yDqPNumRN2XrUf2URRg73tntJ6KiqVlzzl9IyecXrrJVfo96Ehb3xnUS-6Cg7mkEzdWWHSGaPa72GfHahZWCzgtnE", 
+                           "https://firebearstudio.com/blog/wp-content/uploads/2014/10/custom-price-magento-extensions.png"]
+            }]
         },
         {
-            "name": "Dies ist ein Test, der aus dem",
-            "age": 22
+            "id": 6,
+            "name": "Test-product-6"
+            "items":[{
+                "name": "Test-product-6",
+                "price": 129.8,
+                "currency": "€",
+                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                "images": ["https://swobj.xingassets.com/v1/companies/public-assets/img/custom/cp/assets/logo/c/6/a/519274/square_128px/PC_LOG_Wolke.jpg?1575164005", 
+                           "https://firebearstudio.com/blog/wp-content/uploads/2014/10/custom-price-magento-extensions.png",
+                           "https://www.newneuromarketing.com/media/zoo/images/NNM-2015-019-Cost-consciousness-increase-product-sales-with-Price-Primacy_6a73d15598e2d828b0e141642ebb5de3.png"]
+            }]
         },
-        {
-            "name": "Back-End kommt",
-            "age": 22
-        }
-    ]
+                {
+            "id": 7,
+            "name": "Test-product-7"
+            "items":[{
+                "name": "Test-product-7",
+                "price": 149.9,
+                "currency": "€",
+                "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+                "images": ["https://store.shopware.com/media/image/8d/f6/5d/icon5dc25a5274b7f.png"]
+            }]
+        },
 }
