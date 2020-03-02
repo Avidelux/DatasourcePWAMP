@@ -2,6 +2,10 @@
     "items": [
         {
             "id": 1,
+            "items":{
+                "name": "Alice",
+                "age": 42
+            },
             "name": "Alice",
             "age": 42
         },
