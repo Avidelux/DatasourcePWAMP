@@ -15,7 +15,7 @@
         {
             "id": 2,
             "name": "Test-product-2"
-            "items":[{
+            "items": [{
                 "name": "Test-product-2",
                 "price": 35.5,
                 "currency": "€",
@@ -27,7 +27,7 @@
         {
             "id": 3,
             "name": "Test-product-3"
-            "items":[{
+            "items": [{
                 "name": "Test-product-3",
                 "price": 0.9,
                 "currency": "€",
@@ -39,7 +39,7 @@
         {
             "id": 4,
             "name": "Test-product-4"
-            "items":[{
+            "items": [{
                 "name": "Test-product-4",
                 "price": 22.0,
                 "currency": "€",
@@ -51,7 +51,7 @@
         {
             "id": 5,
             "name": "Test-product-5"
-            "items":[{
+            "items": [{
                 "name": "Test-product-5",
                 "price": 35.2,
                 "currency": "€",
@@ -63,7 +63,7 @@
         {
             "id": 6,
             "name": "Test-product-6"
-            "items":[{
+            "items": [{
                 "name": "Test-product-6",
                 "price": 129.8,
                 "currency": "€",
@@ -73,15 +73,16 @@
                            "https://www.newneuromarketing.com/media/zoo/images/NNM-2015-019-Cost-consciousness-increase-product-sales-with-Price-Primacy_6a73d15598e2d828b0e141642ebb5de3.png"]
             }]
         },
-                {
+        {
             "id": 7,
             "name": "Test-product-7"
-            "items":[{
+            "items": [{
                 "name": "Test-product-7",
                 "price": 149.9,
                 "currency": "€",
                 "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
                 "images": ["https://store.shopware.com/media/image/8d/f6/5d/icon5dc25a5274b7f.png"]
             }]
-        },
+        }
+    ]
 }
