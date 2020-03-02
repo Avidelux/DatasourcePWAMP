@@ -1,26 +1,20 @@
 {
-  "products":[
-    
-    {
-      "id": "product1-id",
-      "name": "product1-name",
-      "description": "product1-description",
-    },
-    
-    {
-      "id": "product2-id",
-      "name": "product2-name",
-      "description": "product2-description",
-    },
-
-    {
-      "id": "product3-id",
-      "name": "product3-name",
-      "description": "product3-description",
-    }
-    
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "items": [
+        {
+            "name": "Alice",
+            "age": 42
+        },
+        {
+            "name": "Bob",
+            "Age": 55
+        },
+        {
+            "name": "Carol",
+            "Age": 28
+        },
+        {
+            "name": "Dan",
+            "age": 22
+        }
+    ]
 }
