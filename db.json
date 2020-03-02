@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Test-product-1"
-            "items":[{
+            "items": [{
                 "name": "Test-product-1",
                 "price": 42.1,
                 "currency": "€",
