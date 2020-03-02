@@ -1,4 +1,4 @@
-
+{
   "products":[
     
     {
@@ -19,5 +19,8 @@
       "description": "product3-description",
     }
     
-  ]
-
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
